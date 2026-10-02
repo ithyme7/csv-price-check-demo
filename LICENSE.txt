@@ -1,0 +1,36 @@
+CSV PRICE CHECK — DEMO LICENCE 0.1
+
+You may run this fixed-data demo free of charge for personal or business
+evaluation. You may share the complete unmodified demo archive free of charge
+with its README and licence notices intact. This permission does not allow
+reselling the demo, rebranding it, or extracting the application's code to
+redistribute a general CSV tool. The paid product has its own licence.
+
+This demo contains fictional data and cannot process your product files. It
+is supplied as is, with no guarantee of compatibility with a shop or browser.
+Mandatory rights under applicable law are not limited by this notice.
+CSV Price Check is independent of WooCommerce and itch.io.
+
+Papa Parse is a third-party MIT-licensed library. Its independent licence in
+PAPAPARSE-LICENSE.txt applies to that library and is not restricted by this notice.
+
+The MIT License (MIT)
+
+Copyright (c) 2015 Matthew Holt
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
